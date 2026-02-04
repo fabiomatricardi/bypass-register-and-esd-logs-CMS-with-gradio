@@ -19,6 +19,9 @@ In high-risk LNG operations, **every override and shutdown must be meticulously 
 - ✅ **Zero data loss** with permanent shutdown event records (no deletion allowed)
 - ✅ **Congo timezone-aware** scheduled reporting for operational rhythm
 
+
+<img src='https://github.com/fabiomatricardi/bypass-register-and-esd-logs-CMS-with-gradio/raw/main/social/2026-02-04_08-00-22_Pai_Image.png' width=900>
+
 ---
 
 ## 🚀 Key Features
@@ -104,6 +107,8 @@ python app.py
 📍 LOCAL ACCESS: http://127.0.0.1:7860
 🌐 LAN ACCESS: http://192.168.1.35:7860
 ```
+
+<img src='https://github.com/fabiomatricardi/bypass-register-and-esd-logs-CMS-with-gradio/raw/main/social/2026-02-04_08-01-08_Pai_Image.png' width=900>
 
 ---
 
@@ -194,6 +199,8 @@ Developed for NGUYA FLNG Project under contract with Wison Engineering
 > This software is part of a safety management system.  
 > Always follow site-specific procedures and regulatory requirements.  
 > Software output does not replace qualified human judgment.  
-> *Last Updated: February 4, 2026 | Document ID: CCR-APP-README-1.0*  
+> *Last Updated: February 4, 2026 | Document ID: CCR-APP-README-1.0*
+
+<img src='https://github.com/fabiomatricardi/bypass-register-and-esd-logs-CMS-with-gradio/raw/main/social/2026-02-04_07-58-56_Pai_Image.png' width=900>
 
 
