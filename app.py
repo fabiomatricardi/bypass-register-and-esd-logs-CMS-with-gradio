@@ -47,7 +47,7 @@ MYLOCALIP = get_IP()
 
 # SECURITY: Load credentials from environment variables ONLY (NEVER hardcode)
 SENDER_EMAIL = "fabio.matricardi@gmail.com"
-GMAIL_APP_PASSWORD = "vgrv oyhe tral kdaq"  # Must be set externally
+GMAIL_APP_PASSWORD = "YOUR 16 DIGITS APP PASSWORD FOR GMAIL"  # get it by yourself
 MANAGER_EMAILS_FILE = "emails.txt"  # File with manager emails (one per line)
 
 def read_manager_emails():
@@ -2438,4 +2438,5 @@ if __name__ == "__main__":
         server_port=7860,
         theme=gr.themes.Glass(),
         inbrowser=True
+
     )
