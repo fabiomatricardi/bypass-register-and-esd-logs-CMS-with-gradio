@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 1,
+    "timestamp": "2026-02-03 01:30:00",
+    "Event Description": "SPURIOUS: Unplanned ESD-2 due to FGS voting trip",
+    "First Cause": "77ATFZLPG1-GD01 voting trip with NO gas detection",
+    "Issues and next steps": "Known issue due to wrong implementation of DCN during towing. \nplanned download on Febraury 07 2026. \nCommunication variables set to trip in case of bad/fault",
+    "Action by": "Instrument Team",
+    "Reported by": "Fabio Matricardi"
+  },
+  {
+    "ID": 2,
+    "timestamp": "2026-02-05 17:08:47",
+    "Event Description": "SPURIOUS: 76S-3000 total process shutdown unexpected, caused by Condensate Cargo tank level extremely high",
+    "First Cause": "36S-0002",
+    "Issues and next steps": "the long term inhibition on the level transmitters due to instability of the readings, have been removed. sudden spikes (due to overrange) caused after 60 minutes activation of total process shutdown. CSU INST team to support troubleshooting with vendor",
+    "Action by": "CSU INST",
+    "Reported by": "Fabio Matricardi"
+  },
+  {
+    "ID": 3,
+    "timestamp": "2026-02-05 20:38:14",
+    "Event Description": "GENUINE: ACtivated ESD, and total blackout after losing main power generation. PAGA activated as expected",
+    "First Cause": "Low Low pressure on Instrument Air",
+    "Issues and next steps": "Pressure on the IA  started to decrease from 16:55. after 20 minutes went below 4 barg and activated 76S-2000",
+    "Action by": "Maintnance",
+    "Reported by": "Fabio Matricardi"
+  }
+]
